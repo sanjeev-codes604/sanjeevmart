@@ -166,16 +166,7 @@
     <div class="logo">
         Sanjeev <span>Mart</span>
     </div>
-
-    <div>
-        <a href="home.jsp">Store</a>
-        <a href="products">Products</a>
-        <a href="logout">Logout</a>
-    </div>
-
-</div>
-
-
+c
 <div class="container">
 
     <div class="welcome">
